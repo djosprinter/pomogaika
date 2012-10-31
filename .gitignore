@@ -1,0 +1,8 @@
+.idea/*
+images/*
+tmp/*
+cache/*
+logs/*
+administrator/cache/*
+configuration.php
+.htaccess
